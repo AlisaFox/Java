@@ -1,2 +1,8 @@
-Playing around with objects again. Created a tree of buildings, which have the attributes height and age, 
-year when they should be repared and how much it would cost. A tool for a buildings manager???
+# Buildings
+
+The assignment pdf describes the project pretty well.
+
+## What:
+A tree representing separate buildings, organized by age.
+
+
