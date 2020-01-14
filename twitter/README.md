@@ -5,11 +5,12 @@ This is a fake "twitter". It takes a file of messages, and can do multiple thing
 Or it can find the most used word, or the hottopic. Or it can check if a message exists at all in a tweet.
 
 ## What's happening?
-We have tweets with attributes
+We have `Tweet.java` with attributes
 - userAccount;
 - date;
 - time;
 - message;
+And then we have  `Twitter.java`, which is an arrayList of tweets. 
 
 There are numerous other functions described clearly in the pdf.
 
