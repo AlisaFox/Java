@@ -9,12 +9,12 @@ view hotel info, and view your bill.
 This is an object oriented program. We have `Room.java` with attributes
   - type;
     - double, queen, king
-	- price;
-	- availability;
+  - price;
+  - availability;
   
   `Reservation.java` with attributes
   - name (ie. the name of the person who reserved)
-	- roomReserved 
+  - roomReserved 
   
   `BookingSystem.java` uses a scanner to ask the user inputs. This is the frontend part, that shows up as a menu with options 
   1. Make a reservation 
