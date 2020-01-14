@@ -1,7 +1,5 @@
 # Warehouse
 
-This is a warehouse.
-
 ## What:
 Lot's of objects that make up a warehouse. We started with box, the boxes are on shelves, and shelves are in a warehouse. We also have urgent box, which is a subtype of box. 
 
@@ -17,5 +15,8 @@ We can use the merge sort algorithm to optimize the warehouse: ie once a box is 
 make the other boxes fit better. This is done in the reorganize() method. 
 
 We also can only optimize with oneBox, and not all the of them.
+
+## To do
+Not much that I can think of rn
 
 
